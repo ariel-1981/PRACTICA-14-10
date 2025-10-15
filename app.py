@@ -1,4 +1,4 @@
-import pandas as pd
+oimport pandas as pd
 import streamlit as st
 
 st.title("PRACTICA DE STREAMLIT")
@@ -8,3 +8,5 @@ st.subheader("Practica de Hoy")
 st.write("Hoy volvimos a repasar como subir una pagina web a la nube y repasamos trabajos de Scudero")
 
 st.badge("Mensaje Nuevo")
+
+st.code("st.title("codigo de ejemplo")")
