@@ -9,4 +9,4 @@ st.write("Hoy volvimos a repasar como subir una pagina web a la nube y repasamos
 
 st.badge("Mensaje Nuevo")
 
-st.code("st.title("codigo de ejemplo")")
+st.code("x + 2")
